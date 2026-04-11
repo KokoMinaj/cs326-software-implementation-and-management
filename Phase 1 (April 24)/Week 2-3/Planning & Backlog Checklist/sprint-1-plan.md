@@ -1,4 +1,4 @@
-# Queeless — Sprint 1 Plan
+# QueueLess — Sprint 1 Plan
 
 ## Sprint Overview
 - **Sprint Duration:** 2 weeks
