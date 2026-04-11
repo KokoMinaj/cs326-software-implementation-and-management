@@ -51,8 +51,8 @@
 ---
 
 ## Team Conventions
-- **Branching:** `main` (production), `dev` (development), feature branches per story (e.g. `feature/US-01-queue-status`)
+- **Branching:** `main` (production), `development` (development), feature branches per story (e.g. `feature/US-01-queue-status`)
 - **Commits:** Follow conventional commits format (e.g. `feat: add queue status endpoint`)
-- **Reviews:** At least one team member must review a PR before merging to `dev`
+- **Reviews:** At least one team member must review a PR before merging to `main`
 - **Meetings:** Weekly sync to discuss progress, blockers, and next steps
-- **Communication:** Primary via group chat; technical discussions via GitHub Issues
+- **Communication:** Primary via group chat or discord; technical discussions via GitHub Issues
