@@ -1,4 +1,4 @@
-# Queeless — Team Roles
+# QueueLess — Team Roles
 
 ## Team Members & Responsibilities
 

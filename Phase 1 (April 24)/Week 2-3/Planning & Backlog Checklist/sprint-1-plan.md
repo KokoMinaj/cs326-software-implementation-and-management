@@ -56,7 +56,7 @@
 
 ## Sprint 1 Goals Summary
 By the end of Sprint 1, a customer should be able to:
-1. Visit the Queeless landing page
+1. Visit the QueueLess landing page
 2. Select a partner institution
 3. Enter their queue number
 4. See their position in line updating in real time (via mock data)
