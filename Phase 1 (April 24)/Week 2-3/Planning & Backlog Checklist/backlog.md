@@ -1,4 +1,4 @@
-# Queeless — Product Backlog
+# QueueLess — Product Backlog
 
 ## User Stories
 
@@ -132,7 +132,7 @@
 
 ### US-10: Institution API Standardization
 **As a** developer,
-**I want to** define a standard API protocol that institutions must follow to integrate with Queeless,
+**I want to** define a standard API protocol that institutions must follow to integrate with QueueLess,
 **So that** onboarding new institutions is consistent and scalable.
 
 - **Priority:** Medium
@@ -146,13 +146,13 @@
 
 ### US-11: Landing Page
 **As a** visitor,
-**I want to** see a clear and informative landing page when I visit Queeless,
+**I want to** see a clear and informative landing page when I visit QueueLess,
 **So that** I understand what the platform does before using it.
 
 - **Priority:** Medium
 - **Story Points:** 2
 - **Acceptance Criteria:**
-  - Landing page explains what Queeless does
+  - Landing page explains what QueueLess does
   - Clear call-to-action button to start tracking queue
   - Page is visually appealing and mobile responsive
 
