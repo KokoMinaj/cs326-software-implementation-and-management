@@ -1,6 +1,19 @@
 <div align="center">
   
 ## University of Science and Technology of Southern Philippines
+</div>
+
+<div align="center">
+  
+## Software Engineering Lifecycle Project
+</div>
+
+## Overview
+This project demonstrates the complete application of modern software engineering practices across the full development lifecycle. It covers planning, development, testing, deployment, maintenance, and continuous improvement using industry-standard methodologies such as Agile, DevOps, and CI/CD.
+The goal of this project is to simulate a real-world team environment where structured workflows, quality assurance, and iterative delivery are applied to build and maintain a functional software system.
+
+<div align="center">
+  
 ### Novus Team
 </div>
 
@@ -43,3 +56,5 @@
 </tr>
 </table>
 </div>
+
+
