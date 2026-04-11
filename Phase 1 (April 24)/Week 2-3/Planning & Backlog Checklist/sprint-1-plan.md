@@ -23,7 +23,7 @@
 
 ## Sprint 1 Tasks Breakdown
 
-### Backend (Anino & Espina)
+### Backend (Espina)
 - [ ] Set up Django project and install dependencies (DRF, CORS, Channels)
 - [ ] Create `queue_tracker` and `mock_api` apps
 - [ ] Build mock institution API endpoint (US-05)
