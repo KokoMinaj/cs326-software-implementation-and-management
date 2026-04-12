@@ -1,6 +1,6 @@
 # Risk Register
 
-**Project:** Queeless — Student Queue Tracker
+**Project:** QueueLess — Student Queue Tracker
 **Maintainer:** Den Jester Antonio
 **Last updated:** April 2026
 
