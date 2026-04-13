@@ -11,3 +11,5 @@ function multiply(a, b) {
 }
 
 module.exports = { add, subtract, multiply };
+
+// mathematical operations for testing purposes
