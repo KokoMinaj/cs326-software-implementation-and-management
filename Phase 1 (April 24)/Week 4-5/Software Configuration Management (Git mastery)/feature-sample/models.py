@@ -2,11 +2,7 @@ from django.db import models
 
 
 class TimeStampedModel(models.Model):
-    created_at = models.DateTimeField(auto_now_add=True)
-    updated_at = models.DateTimeField(auto_now=True)
-
-    class Meta:
-        abstract = True
+    
 
 
 class Institution(TimeStampedModel):
@@ -22,11 +18,7 @@ class Institution(TimeStampedModel):
         PAUSED = "paused", "Paused"
 
     name = models.CharField(max_length=255)
-    institution_type = models.CharField(
-        max_length=20,
-        choices=InstitutionType.choices,
-        default=InstitutionType.OTHER,
-    )
+    
     address = models.CharField(max_length=500, blank=True, default="")
     api_endpoint = models.URLField(max_length=500, blank=True)
     status = models.CharField(
@@ -38,12 +30,7 @@ class Institution(TimeStampedModel):
             "open, closed, or paused)."
         ),
     )
-    is_active = models.BooleanField(
-        default=True,
-        help_text=(
-            "Administrative flag indicating whether this institution should be "
-            "enabled in the application, independent of its operational status."
-        ),
+    
     )
 
     class Meta:
