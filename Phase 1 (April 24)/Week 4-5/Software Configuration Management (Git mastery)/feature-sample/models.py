@@ -22,7 +22,7 @@ class Institution(TimeStampedModel):
         PAUSED = "paused", "Paused"
 
     name = models.CharField(max_length=255)
-    institution_type = models.CharField(
+    type = models.CharField(
         max_length=20,
         choices=InstitutionType.choices,
         default=InstitutionType.OTHER,
@@ -38,7 +38,7 @@ class Institution(TimeStampedModel):
             "open, closed, or paused)."
         ),
     )
-    is_active = models.BooleanField(
+    is_active_institution = models.BooleanField(
         default=True,
         help_text=(
             "Administrative flag indicating whether this institution should be "
